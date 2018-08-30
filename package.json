@@ -3,8 +3,9 @@
 "version": "0.0.0",
 "main": "index.js",
 "scripts": {
-"start": "node index.js"
+"start": "node ."
 },
+"keywords": [],
 "dependencies": {
 "discord.js": "^11.1.0",
 "request":"2.81.0",
